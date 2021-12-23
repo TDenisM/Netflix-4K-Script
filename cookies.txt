@@ -1,0 +1,15 @@
+# HTTP Cookie File for domains related to netflix.com.
+# Downloaded with cookies.txt Chrome Extension (https://chrome.google.com/webstore/detail/njabckikapfpffapmjgojcnbfjonfjfg)
+# Example:  wget -x --load-cookies cookies.txt https://www.netflix.com/browse
+#
+.netflix.com	TRUE	/	FALSE	1669278820	memclid	e74b9e5e-91ca-4892-8632-0cb8c6603941
+.netflix.com	TRUE	/	FALSE	1645518812	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1645518812	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A1761.05%2C%22throughputNiqr%22%3A0.6072196932211776%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A1761.05%2C%22throughputNiqr%22%3A0.6072196932211776%7D%7D
+.netflix.com	TRUE	/	FALSE	0	clSharedContext	27ec0ee1-e55d-4fea-aa8a-dabceec64933
+.netflix.com	TRUE	/	FALSE	1637744614	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1637753611	flwssn	cbf22a14-2a7e-4600-9bdd-b1fa7066265a
+.netflix.com	TRUE	/	FALSE	1669278811	nfvdid	BQFmAAEBEEr1G4bCRtYMy71LrGowUb9g2zSaS2Gfvil0m7U5Q4pu3WKx5yM4XwwfWihPLA7px_GvXKP635bGWUK6H24DcM6GK9bQOFp9905LYuNO8BRrdxs4BFQ37uGmInll8XPG6c37SWowfHP2ZLV2sEZ7n-Pe
+.netflix.com	TRUE	/	TRUE	1669278811	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABS2V1fpBFCM7yoXuwJ8HQonzDVujurxUxE.%26dt%3D1637742810595
+.netflix.com	TRUE	/	TRUE	1669278811	NetflixId	v%3D2%26ct%3DBQAOAAEBEHQhvoGIsgJ1s4AkHEfifJOB0OXHsrGk7wfJEIPW5AkQTvu73fMNWPKcPdATmNFwxzqdK5rGCqmjVwC1w71qsK_Y8DjjOcXHB3Zkmz2WUBUhF_JqAbEGvwW6HMo90mcoxWEExYHLudE6OJKeh_eeKvKsf-7c3iDxWVK1xBe1Q7ejeW6vv_iqFdV2qRC9JJi8dF4Vsz2omok0cu9ynaudFU0_BNHBxw4bBoqIQaqk5OHy2xEYk5nZRle-H1F7AshXstptrkvCVousFEOvA7_CWcu-GBoNckG8UtRfNnN8CMQi892E_LLRwYvVdOCl0VAW17TN4lExppSIPLO7QC9qqXrwGyeBkCOxdEkwGOeLlqVBQvEAcW9rsgjWKqnub2Cuy5wbF4xSF921NxeXRynPkD9HKWVWdOmO0s85cCsGIuZyeLAe0Zu0LxGLr5UApVF95uSREskq-51Y4kuVTHjnBAbZ6vXM4x5mqM1Mx4qa5S7QO1EYKPYuJjdcUuoPk8oSqZx4VSOL2kdz8r5qeqT-LTDBMtvRJII0y6JWu8SXcX8DY-9tMUKYWUn-eXKTCbrpDitls9aKM_CCknBSf4Tcw7ejaD7UBOWe8IKV_m1oLD8Es-P_qMPGg7xIOnnMI9AltmC1%26bt%3Ddbl%26ch%3DAQEAEAABABSMhx-Q3cKesfd5g62kOwDjP9LvfDg0j1Q.%26mac%3DAQEAEAABABSbl-uW04K698qYjACgMO4Te_COxD67puQ.
+.www.netflix.com	TRUE	/	FALSE	0	cL	1637742812398%7C163774279369203149%7C163774279395967530%7C%7C5%7CNQGTGSO5SRHXRPPBVPZMU6RUSA
+.netflix.com	TRUE	/	FALSE	1669278812	OptanonConsent	isIABGlobal=false&amp;datestamp=Wed+Nov+24+2021+14%3A03%3A32+GMT%2B0530+(India+Standard+Time)&amp;version=6.6.0&amp;consentId=995f08da-e373-45c0-afb5-94226bba5d02&amp;interactionCount=1&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&amp;hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&amp;AwaitingReconsent=false

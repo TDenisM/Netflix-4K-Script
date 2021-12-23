@@ -1,0 +1,40 @@
+﻿Proxy en cofig:
+set https_proxy=https://IP:PORT
+
+..:: NETFLIX ::..
+
+* Download MOVIE 1080p + AUDIO + SUBS:
+python netflix.py -t TITLE -q X -a en,es -o X
+
+* Download SERIES 1080p + AUDIO + SUBS:
+python netflix.py -t TITLE -q X -s X -a en,es
+python netflix.py -t TITLE -q X -s X -e XX -a en,es
+
+..:: COMANDS ::..
+
+-q X = Quality 720p or 1080p
+-o X = Tittle movie " EXAMPLE.MOVIE.2018 " Only put comand in movies
+-s X = Season select
+-e XX = Episode select
+
+-a en,es = Select audio: 
+English: 'en'
+French: 'fr'
+German: 'de'
+Italian: 'it'
+Spanish: 'es'
+Flemish: 'nl-BE'
+Finnish: 'fi'
+No Dialogue: 'zxx'
+Czech: 'cs'
+European Spanish: 'es-ES'
+Japanese: 'ja'
+Brazilian Portuguese: 'pt-BR'
+Polish: 'pl'
+Turkish: 'tr'
+Mandarin: 'zh'
+Cantonese: 'yue'
+Arabic: 'ar'
+Korean: 'ko'
+Hebrew: 'he'
+Norwegian: 'nb'
